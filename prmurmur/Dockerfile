@@ -3,7 +3,7 @@ FROM ubuntu:12.04
 LABEL author="Muh Aqila Naufal Hakim" maintainer="muhaqilanaufalhakim@gmail.com"
 
 LABEL org.opencontainers.image.source="https://github.com/manh21/yolks"
-LABEL org.opencontainers.image.licenses=MIT
+LABEL org.opencontainers.image.licenses="MIT"
 
 ENV DEBIAN_FRONTEND=noninteractive
 
